@@ -1,0 +1,16 @@
+PODS:
+  - ReduxStore (0.1.0)
+
+DEPENDENCIES:
+  - ReduxStore (from `../`)
+
+EXTERNAL SOURCES:
+  ReduxStore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReduxStore: 2ca9c38fbbaca8db69bf5fcfbb8456fcdd4c53c4
+
+PODFILE CHECKSUM: be04c65acc9bed6ed57299054cf844957bcdd692
+
+COCOAPODS: 1.10.1

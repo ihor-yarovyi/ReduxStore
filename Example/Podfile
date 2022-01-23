@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ReduxStore_Tests' do
+  pod 'ReduxStore', :path => '../'
+  
+  
+end

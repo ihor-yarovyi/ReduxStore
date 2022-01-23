@@ -1,0 +1,6 @@
+framework module Pods_ReduxStore_Tests {
+  umbrella header "Pods-ReduxStore_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
